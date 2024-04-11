@@ -5,6 +5,16 @@
 
 # GameServer Factures
 - teams working
+- player ia/bots
+- custome gamemodes
+- storm king
+- arsenal
+- one shot
+- and more gameodes all work
+- flor is lava
+- vending machines
+- llamas working
+- comands
 - reviving
 - rebooting bans
 - rebooting cards
