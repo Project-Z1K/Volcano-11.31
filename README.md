@@ -29,7 +29,7 @@
 - alot fixes
 - bots can talk to they and stuff
 - new year event
-- cars working 1:1
+- vehicle working 1:1
 - vehicle weapons
 - backend code in the gs
 - discord status
