@@ -1,6 +1,6 @@
 # Volcano-11.31
 
-20 stars = post the src is fully w made by me
+# 20 stars = post the src is fully w made by me
 
 
 # GameServer Factures
