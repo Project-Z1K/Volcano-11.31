@@ -1,6 +1,10 @@
 # Volcano-11.31
 
-# 40 stars = post the src is fully w made by me
+
+
+- i just see skids are crazy making alt accs to star repro so i going to add more stars
+
+# 70 stars = post the src is fully w made by me
 
 
 # GameServer Factures
